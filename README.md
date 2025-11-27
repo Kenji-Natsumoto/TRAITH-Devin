@@ -1,6 +1,6 @@
-# React + TypeScript + Vite
+# ▼ TRAITH（トライス）
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+このアプリは、組織の理念を変革するAIプラットフォームです。組織の理念をMTPとAIで素早く正しく言語化できます。
 
 Currently, two official plugins are available:
 
